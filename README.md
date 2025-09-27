@@ -1,24 +1,24 @@
 ## Deskripsi
 
-Skrip untuk MERESET TIME TRIAL aplikasi AnyDesk di komputer Windows dan memastikan aplikasi dijalankan ulang setelah proses reset.
+Skrip untuk MERESET TIME TRIAL aplikasi AnyDesk di komputer Windows.
 
 Do :
 
 - Memastikan hak administrator agar bisa mengakses dan menghapus file sistem.
 
-- Menghentikan layanan dan proses AnyDesk.
+- Menghentikan layanan, proses dan aplikasi AnyDesk.
 
 - Menyimpan file konfigurasi pengguna dan thumbnail ke folder sementara.
   
 - Menghapus file konfigurasi dan cache AnyDesk.
 
-- Mengembalikan file konfigurasi pengguna (restore).
+- Mengembalikan file konfigurasi pengguna dari folder sementara (restore).
 
-- Menyalakan kembali layanan dan aplikasi AnyDesk.
+- Menyalakan kembali layanan, proses dan aplikasi AnyDesk.
 
 ## Catatan Penting
 
-Skrip ini menghapus konfigurasi AnyDesk, jadi bisa menyebabkan hilangnya pengaturan atau koneksi yang tersimpan.
+Skrip ini menghapus konfigurasi AnyDesk, menyebabkan hilangnya pengaturan atau koneksi yang tersimpan.
 
 ## Sumber
 
